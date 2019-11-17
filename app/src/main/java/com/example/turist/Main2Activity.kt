@@ -11,6 +11,3 @@ class Main2Activity : AppCompatActivity() {
         setContentView(R.layout.activity_main2)
     }
 }
-fun Spisok (V : View) {
-    
-}
