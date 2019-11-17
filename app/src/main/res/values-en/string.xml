@@ -2,26 +2,115 @@
 <resources>
 
     <string name="app_name">Turist</string>
-    <string name="kilohistory">  Right	in	the	center	of	Barnaul	on	a	granite	pillar	there	stands	a	vase	made	of	Korgon	porphyry.	The	vase	marks	Barnaul\'s	Kilometre
-Zero.	It	is	the	origin	point	of	all	the	roads	of	Altai	Krai.	The	vase	adds	life	to	the	place	and	gives	the	city	its	own	special	appeal.
-The	height	of	the	“Kolyvan	beauty”	is	2	meters,	the	weight	–	1,200	kilos.\n
-The	stone	for	the	vase	was	extracted	in	the	Korgon	mine	in	1815.	It	was	not	until	2003	that	the	vase	was	carved	out	of	this	stone.
-The	pedestal	is	decorated	with	a	mosaic	made	of	black	gabbro	which	depicts	cardinal	directions	and	twelve	zodiac	signs.	The	total	size	of
-the	vase	with	the	pedestal	is	six	and	a	half	meters.\n
-The	Kilometre	Zero	is	a	popular	spot	for	get-togethers	and	leisurely	walks.	People	also	come	here	to	make	a	wish.	The	wish-making
-ritual	takes	three	steps,	first	you	find	your	own	zodiac	sign	on	the	mosaic,	then	turn	around	three	times	and	throw	a	coin.	If	you	manage	to
-throw	your	coin	onto	the	lid	of	the	vase,	your	wish	will	surely	come	true.	</string>
+
     <array name="sights_name">
         <item> Zero kilometer</item>
-        <item>Barnaul</item>
-        <item>Where I am</item>
-        <item>>sights</item>
         <item>>Demidov Pillar</item>
-        <item>vase from jasper</item>
+        <item>Vase from jasper</item>
         <item>Queen vaz</item>
         <item>Kolyvan vase</item>
         <item>Florentine mosaic paintings</item>
         <item>>The painting "At the source of the Great River"</item>
+        <item>Vase from Beloretsk quartzite</item>
+        <item>commemorative sign of the jealous wavy jasper </item>
+        <item>Anniversary vase </item>
+
+    </array>
+    <array name="sights_history">
+        <item> Barnaul	traces	its	history	back	to	1730.	The	city	emerged	in	the	outlying	districts	of
+            the	Russian	Empire	as	a	center	of	mining	industry	which	provided	silver,	copper,	lead	and	gold
+            for	the	state	treasury.\n
+            The	 first	 monument	that	 appeared	in	 Barnaul	is	 a	 granite	pillar	 –	 the	Demidov
+            Obelisk.	The	foundation	for	the	obelisk	was	laid	on	June	18,	1825	on	the	initiative	of	P.K.	Frolov
+            who	was	the	head	of	the	Kolyvano-Voskresensky	works.	The	 stones	for	the	obelisk	were
+            transported	to	the	city	on	floats	down	the	rivers	Charysh	and	Ob.	The	obelisk	is	14	meters
+            high.\n
+            th	 The	Demidov	Obelisk	is	of	special	significance.	It	was	erected	in	honor	of	the	100
+            anniversary	of	mining	industry	in	Altai.\n
+            With	its	elegant	simplicity	of	line	this	most	durable	monument	in	the	city	still	evokes
+            admiration.	 Visitors	 still	 marvel	 at	 the	 unsurpassed	 quality	 of	 performance	 of	 Kolyvan
+            artisans	and	at	the	beauty	of	the	architecture.	</item>
+
+        <item> In honor of the city of
+            th Barnaul's	 250 anniversary	 in
+            1980 an amphora-form vase
+            made	 of	 Revnevo	 jasper	 was
+            installed	 in	 the	 square	 at	 the
+            crossing	of	Pushkina	Street	and
+            Lenina	Prospekt.	The	 stone	has
+            absorbed	all	the	colors	of	nature.\n
+            W h e n y o u f e e l
+            downhearted	come	to	enjoy	the
+            view	of	the	jasper	vase.	Known	as
+            the	 stone	 of	 life	 jasper	 brings
+            vitality	 and	 awakens	 a	 sense	 of
+            joy		</item>
+        <item> In	honor	of	the	50 anniversary	of	Altai	Krai	a	vase	was
+            placed	at	the	crossing	of	Lenina	Prospekt	and	Korolenko	Street.
+            The	vase	is	made	of	Beloretsk	quartzite	and	resembles	a	bowl
+            which	is	filled	with	wishes	of	well-being	and	prosperity.\n
+            Stone	 vases	 installed	 in	 the	 streets	 and	 squares	 of
+            Barnaul	are	a	true	attraction	of	the	city.	Notice	how	elegantly	and
+            gracefully	these	vases	complete	the	composition	of	the	park.\n
+            Depending	on	the	season	every	vase	changes	its	color.
+            Such	changes	cannot	be	seen	in	a	museum.	Placed	in	the	natural
+            urban	 landscape	 and	 being	 so	 close	 to	 city	 dwellers,	 these
+            treasures	are	beckoning.
+        </item>
+        <item> In	2003	a	sculpture	made
+            of	undulated	Revnevo	 jasper	was
+            installed	 in	 Barnaul	 Port	 not	 far
+            from	the	Chapel	of	St.	Vladimir	in
+            token of the memory of V.N.
+            Bavarin,	the	first	head	of	the	local
+            government	of	the	city	of	Barnaul.\n
+            The	inscription	written	on
+            the	marble	base	on	the	back	side	of
+            the	pedestal	says	–	“The	square	is
+            named after the head of the
+            Barnaul City Administration
+            Vladimir Nikolaevich Bavarin
+            (1939-2003).”\n
+            The	sculpture	was	carved
+            out	by	Kolyvan	masters	in	the	form
+            of	a	half-vase	which	symbolizes	the
+            tragic	 and	 untimely	 death	 of	 the
+            city	mayor.
+        </item>
+        <item> Vases	 made	 by	 the	 Kolyvan
+            masters	can	be	seen	in	many	places	of
+            Barnaul. They adorn Barnaul
+            theaters, the Altai Krai State
+            Philharmonic Hall, the Wedding
+            Palace,	Train	Station,	and	other	public
+            buildings	of	Barnaul./n
+            These	 vases	 are	 the	 true
+            evidence	that	the	Altai	Mountains	are
+            still rich in semi-precious and
+            precious	stones.	They	prove	that	our
+            land	can	be	still	proud	of	artisans	of
+            unique	crafts	who	can	bring	life	out	of
+            s tone . Through the i r t a l ent
+            exclusively	beautiful	Altai	jasper	and
+            porphyry “acquire an individual
+            touch”	as	the	old	stone	cutters	said.\n
+            The	 most	 famous	 modern
+            vase,	 the	 Jubilee Vase,	 was	 made	 in
+            th 2002	for	the	200 anniversary	of	the
+            Kolyvan Stonecutting Factory. A
+            wonderful	 vase	made	in	 an	 unusual
+            octahedral	form	was	given	as	a	gift	to
+            the	Federation	Council	of	the	Federal
+            Assembly	of	Russia./n
+            In 2003 this vase was
+            included into the collection of
+            unsurpassed masterpieces of
+            th Kolyvan	craftsmen	of	the	19 century
+            in	 the	 State	 Hermitage	 Museum.	 A
+            replica	of	the	Jubilee Vase	is	installed
+            in	 the	 V.M.	 Shukshin	 State	 Drama
+            Theatre	of	Altai.
+        </item>
 
     </array>
 
