@@ -2,14 +2,27 @@
 <resources>
 
     <string name="app_name">Turist</string>
-    <string name="nul">Zero kilometer</string>
-    <string name="city">Barnaul</string>
-    <string name="map">Where I am</string>
-    <string name="List">sights</string>
-    <string name="slolp">Demidov Pillar</string>
-    <string name="jasper">vase from jasper </string>
-    <string name="impervase">Queen vaz</string>
-    <string name="Kolivan">Kolyvan vase</string>
-    <string name="mosaik">Florentine mosaic paintings</string>
-    <string name="istok">The painting "At the source of the Great River"</string>
+    <string name="kilohistory">  Right	in	the	center	of	Barnaul	on	a	granite	pillar	there	stands	a	vase	made	of	Korgon	porphyry.	The	vase	marks	Barnaul\'s	Kilometre
+Zero.	It	is	the	origin	point	of	all	the	roads	of	Altai	Krai.	The	vase	adds	life	to	the	place	and	gives	the	city	its	own	special	appeal.
+The	height	of	the	“Kolyvan	beauty”	is	2	meters,	the	weight	–	1,200	kilos.\n
+The	stone	for	the	vase	was	extracted	in	the	Korgon	mine	in	1815.	It	was	not	until	2003	that	the	vase	was	carved	out	of	this	stone.
+The	pedestal	is	decorated	with	a	mosaic	made	of	black	gabbro	which	depicts	cardinal	directions	and	twelve	zodiac	signs.	The	total	size	of
+the	vase	with	the	pedestal	is	six	and	a	half	meters.\n
+The	Kilometre	Zero	is	a	popular	spot	for	get-togethers	and	leisurely	walks.	People	also	come	here	to	make	a	wish.	The	wish-making
+ritual	takes	three	steps,	first	you	find	your	own	zodiac	sign	on	the	mosaic,	then	turn	around	three	times	and	throw	a	coin.	If	you	manage	to
+throw	your	coin	onto	the	lid	of	the	vase,	your	wish	will	surely	come	true.	</string>
+    <array name="sights_name">
+        <item> Zero kilometer</item>
+        <item>Barnaul</item>
+        <item>Where I am</item>
+        <item>>sights</item>
+        <item>>Demidov Pillar</item>
+        <item>vase from jasper</item>
+        <item>Queen vaz</item>
+        <item>Kolyvan vase</item>
+        <item>Florentine mosaic paintings</item>
+        <item>>The painting "At the source of the Great River"</item>
+
+    </array>
+
 </resources>
