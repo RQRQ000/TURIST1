@@ -2,15 +2,71 @@
 <resources>
 
     <string name="app_name">Turist</string>
-
+    <string name="kilohistory">  Right	in	the	center	of	Barnaul	on	a	granite	pillar	there	stands	a	vase	made	of	Korgon	porphyry.	The	vase	marks	Barnaul\'s	Kilometre
+Zero.	It	is	the	origin	point	of	all	the	roads	of	Altai	Krai.	The	vase	adds	life	to	the	place	and	gives	the	city	its	own	special	appeal.
+The	height	of	the	“Kolyvan	beauty”	is	2	meters,	the	weight	–	1,200	kilos.\n
+The	stone	for	the	vase	was	extracted	in	the	Korgon	mine	in	1815.	It	was	not	until	2003	that	the	vase	was	carved	out	of	this	stone.
+The	pedestal	is	decorated	with	a	mosaic	made	of	black	gabbro	which	depicts	cardinal	directions	and	twelve	zodiac	signs.	The	total	size	of
+the	vase	with	the	pedestal	is	six	and	a	half	meters.\n
+The	Kilometre	Zero	is	a	popular	spot	for	get-togethers	and	leisurely	walks.	People	also	come	here	to	make	a	wish.	The	wish-making
+ritual	takes	three	steps,	first	you	find	your	own	zodiac	sign	on	the	mosaic,	then	turn	around	three	times	and	throw	a	coin.	If	you	manage	to
+throw	your	coin	onto	the	lid	of	the	vase,	your	wish	will	surely	come	true.	</string>
     <array name="sights_name">
         <item> Zero kilometer</item>
+        <item>Demidov Pillar</item>
+        <item>vase from jasper</item>
         <item>>Demidov Pillar</item>
         <item>Vase from jasper</item>
         <item>Queen vaz</item>
         <item>Kolyvan vase</item>
         <item>Florentine mosaic paintings</item>
         <item>>The painting "At the source of the Great River"</item>
+        <item>>Handicraft and Nature of Altai.</item>
+        <item>>The Youth of Altai</item>
+        <item>>At the Head of the Great River</item>
+        <item>>Lake Mokhovoye</item>
+        <item>>Florentine mosaic</item>
+    </array>
+    <array name="sights_history">
+        <item>  Right	in	the	center	of	Barnaul	on	a	granite	pillar	there	stands	a	vase	made	of	Korgon	porphyry.	The	vase	marks	Barnaul\'s	Kilometre
+Zero.	It	is	the	origin	point	of	all	the	roads	of	Altai	Krai.	The	vase	adds	life	to	the	place	and	gives	the	city	its	own	special	appeal.
+The	height	of	the	“Kolyvan	beauty”	is	2	meters,	the	weight	–	1,200	kilos.\n
+The	stone	for	the	vase	was	extracted	in	the	Korgon	mine	in	1815.	It	was	not	until	2003	that	the	vase	was	carved	out	of	this	stone.
+The	pedestal	is	decorated	with	a	mosaic	made	of	black	gabbro	which	depicts	cardinal	directions	and	twelve	zodiac	signs.	The	total	size	of
+the	vase	with	the	pedestal	is	six	and	a	half	meters.\n
+The	Kilometre	Zero	is	a	popular	spot	for	get-togethers	and	leisurely	walks.	People	also	come	here	to	make	a	wish.	The	wish-making
+ritual	takes	three	steps,	first	you	find	your	own	zodiac	sign	on	the	mosaic,	then	turn	around	three	times	and	throw	a	coin.	If	you	manage	to
+            throw	your	coin	onto	the	lid	of	the	vase,	your	wish	will	surely	come	true.	</item>
+    <item> 2013 marked the 170 anniversary of the Tsarina of Vases, a unique artwork of the Kolyvan masters which was made of green
+        undulated Revnevo jasper. The height of the vase is 2,57m. The vase has an oval shape. Its maximum width is 5,04m, the minimum width
+        is 3,22m. It is the biggest vase in the world. The vase is displayed in the State Hermitage Museum.\n
+        In 2008 Kolyvan craftsmen ventured to make a similar vase. They cut out a replica of the Tsarina of Vases which was 5 times as
+        small. The work on this vase continued for a year. Now it is located in the Ob Health Resort (Barnaul, Zmeinogorsky Trakt, 77).\n
+        Replica of the Tsarina of Vases</item>
+        <item> К о л ы в а н с к а я в а з а ,
+
+            Since 1981 the Kolyvan vase
+            installed in the Wedding Palace
+            (Lenina Prospekt, 11) has imbued
+            newly married couples with its
+            positive energy. It contributes to a
+            grandiose and solemn atmosphere
+            of the ceremonial hall where
+            newlyweds perform their first
+            dance.</item>
+
+
+        <item>To make the stone come alive is a dream many masters have.A great contribution to the revival of the art of Florentine mosaic in Altai
+            was made by the graduates of the I. Repin School of Art – Olga and Georgy Alekseev.\n
+            Through their effort Barnaul acquired new Florentine mosaics of big size. One of the first pictures made in this technique is now
+            displayed in the building of Barnaul Port (Ploshchad Bavarina, 8).).</item>
+        <item>The Barnaul Palace of Culture of the
+            Motor Plant (Ulitsa Titova, 50-a) is
+            decorated with three works of
+            G. Alekseev under a common name
+            The Youth of Altai (1987).
+            Visit Barnaul and enjoy the beauty
+            of its nature!.</item>
         <item>Vase from Beloretsk quartzite</item>
         <item>commemorative sign of the jealous wavy jasper </item>
         <item>Anniversary vase </item>
@@ -112,6 +168,29 @@
             Theatre	of	Altai.
         </item>
 
+        <item>Altai stones are very beautiful and they are also very hard. Stone density is 7 units. Color patterns of a rock are determined by the
+            environments of mineral deposits and the geological processes which occurred there 400 years ago.\n
+            Stones for art works come in a great variety of hues and this fact speaks best for the wealth of color of Altai's nature..</item>
+
+        <item> The picture glorifying the nature of Altai decorates
+            the V.M. Shukshin State Drama Theatre of Altai
+            (Ulitsa Molodezhnaya, 15)</item>
+        <item>The Underwater World of the Ocean, Florentine mosaic</item>
+        <item>Icons made in the style of
+            Florentine mosaic are really
+            impressive.\n
+            One of such icons can be seen
+            in St. Nicholas Church (Lenina
+            Prospekt, 36).\n
+            This icon was installed in
+            2002 in the inner courtyard on the
+            side of the altar.</item>
+        <item>The biggest Florentine mosaic picture can be seen in the hall of the main building of Altai State Medical University. The picture
+            was installed in 1994 to mark the 40 anniversary of the university.</item>
+        <item>The four medallions Nature of Altai
+            Design – A. Bitter
+            The swimming pool of the Ob Health Resort</item>
+        <item></item>
     </array>
 
 </resources>
