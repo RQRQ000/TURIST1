@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Turist</string>
+    <string name="app_name">Турист</string>
+    <string name="nul">Нулевой километр</string>
+    <string name="city">Барнаул</string>
+    <string name="map">Где я</string>
+    <string name="List">Достопримечательности</string>
+    <string name="slolp">Демидовский столп</string>
+    <string name="jasper">Ваза из яшмы</string>
+    <string name="impervase">Царица ваз</string>
+    <string name="Kolivan">Колыванская ваза</string>
+    <string name="mosaik">Картины флорентийской мозаики</string>
+    <string name="istok">Картина «У истоков Великой реки»</string>
+
 </resources>

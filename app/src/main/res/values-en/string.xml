@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turist</string>
+    <string name="nul">Zero kilometer</string>
+    <string name="city">Barnaul</string>
+    <string name="map">Where I am</string>
+    <string name="List">sights</string>
+    <string name="slolp">Demidov Pillar</string>
+    <string name="jasper">vase from jasper </string>
+    <string name="impervase">Queen vaz</string>
+    <string name="Kolivan">Kolyvan vase</string>
+    <string name="mosaik">Florentine mosaic paintings</string>
+    <string name="istok">The painting "At the source of the Great River"</string>
+</resources>
