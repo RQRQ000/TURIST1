@@ -3,7 +3,7 @@
 
     <string name="app_name">Turist</string>
 
-    <array name="sights_name">
+    <string-array name="sights_name">
         <item> Zero kilometer</item>
         <item>Demidov Pillar</item>
         <item>vase from jasper</item>
@@ -25,10 +25,9 @@
         <item>The Underwater World of the Ocean, Florentine mosaic</item>
         <item>commemorative sign of the jealous wavy jasper
         </item>
-        <item>commemorative sign of the jealous wavy jasper
-        </item>
-    </array>
-    <array name="sights_history">
+
+    </string-array>
+    <string-array name="sights_history">
         <item>  Right	in	the	center	of	Barnaul	on	a	granite	pillar	there	stands	a	vase	made	of	Korgon	porphyry.	The	vase	marks	Barnauls	Kilometre
 Zero.	It	is	the	origin	point	of	all	the	roads	of	Altai	Krai.	The	vase	adds	life	to	the	place	and	gives	the	city	its	own	special	appeal.
 The	height	of	the	Kolyvan	beauty	is	2	meters,	the	weight	–	1,200	kilos.\n
@@ -200,6 +199,6 @@ ritual	takes	three	steps,	first	you	find	your	own	zodiac	sign	on	the	mosaic,	the
             Design – A. Bitter
             The swimming pool of the Ob Health Resort</item>
 
-    </array>
+    </string-array>
 
 </resources>
