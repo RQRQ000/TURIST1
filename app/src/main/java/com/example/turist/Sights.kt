@@ -7,5 +7,6 @@ class Sights(name : String, picture : Int, history : String) {
     var history : String = history
     var picture : Int = picture
     var name : String = name
+
 }
 

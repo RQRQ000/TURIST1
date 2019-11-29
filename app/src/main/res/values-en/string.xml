@@ -6,25 +6,32 @@
     <string-array name="sights_name">
         <item> Zero kilometer</item>
         <item>Demidov Pillar</item>
-        <item>vase from jasper</item>
-        <item>>Demidov Pillar</item>
-        <item>Vase from jasper</item>
         <item>Queen vaz</item>
+        <item>vase from jasper</item>
+        <item>Vase from Beloretsk quartzite
+        </item>
+        <item>commemorative sign of the jealous wavy jasper
+        </item>
+        <item>Anniversary vase
+        </item>
+
         <item>Kolyvan vase</item>
         <item>Florentine mosaic paintings</item>
         <item>>The painting "At the source of the Great River"</item>
-        <item>>Handicraft and Nature of Altai.</item>
         <item>>The Youth of Altai</item>
-        <item>>At the Head of the Great River</item>
         <item>>Lake Mokhovoye</item>
-        <item>>Florentine mosaic</item>
-        <item>Anniversary vase
-        </item>
-        <item>Vase from Beloretsk quartzite
-        </item>
+
         <item>The Underwater World of the Ocean, Florentine mosaic</item>
-        <item>commemorative sign of the jealous wavy jasper
-        </item>
+        <item>Altar ledge</item>
+        <item>The largest mosaic</item>
+        <item>Florentine mosaic "Nature of Altai"</item>
+
+
+
+
+
+
+
 
     </string-array>
     <string-array name="sights_history">
@@ -182,6 +189,9 @@ ritual	takes	three	steps,	first	you	find	your	own	zodiac	sign	on	the	mosaic,	the
         <item> The picture glorifying the nature of Altai decorates
             the V.M. Shukshin State Drama Theatre of Altai
             (Ulitsa Molodezhnaya, 15)</item>
+        <item> The	Underwater	World	of	the	Ocean,	Florentine	mosaic	author	–
+            A.	BitterThe	s wimming	pool	of	the	Ob	Health	Resort
+         </item>
 
         <item>Icons made in the style of
             Florentine mosaic are really
@@ -200,5 +210,5 @@ ritual	takes	three	steps,	first	you	find	your	own	zodiac	sign	on	the	mosaic,	the
             The swimming pool of the Ob Health Resort</item>
 
     </string-array>
-
+    <string name="title_activity_map">Map</string>
 </resources>
