@@ -22,9 +22,9 @@ class Main2Activity : AppCompatActivity() {
         history = findViewById(R.id.history1)
         namesight = findViewById(R.id.textview)
 
-        for(i in 0..discriprionname.size-1)
-        Sights1.mass.add(
-            Sights(discriprionname[i], R.drawable.nulevoykilometr, discriprion[i]))
+      //  for(i in 0..discriprionname.size-1)
+//        Sights1.mass.add(
+//            Sights(discriprionname[i], R.drawable.nulevoykilometr, discriprion[i]))
         //discriprion[intent!!.getIntExtra(NUMBER_SIGHTS,0)]
         //discriprionname[intent!!.getIntExtra(NUMBER_SIGHTS,0)]
     }
@@ -36,7 +36,7 @@ class Main2Activity : AppCompatActivity() {
     }
     fun Shoofun(s : Sights) {
 
-        history.text = s.history
-        namesight.text = s.name
+        history.text = getString(s.history)
+        namesight.text = getString(s.name)
     }
 }
