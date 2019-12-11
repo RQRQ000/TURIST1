@@ -32,15 +32,20 @@
                 android:id="@+id/picture2"
                 android:layout_width="match_parent"
                 android:layout_height="176dp"
-                android:src="" />
+                android:src=""
+                 />
 
             <TextView
                 android:id="@+id/history1"
+                android:text="История"
+
                 android:layout_width="match_parent"
                 android:layout_height="518dp"
-                android:text=""
                 android:textSize="18sp"
-                android:textStyle="bold|italic" />
+                android:textStyle="bold|italic"
+                />
+
+
 
         </LinearLayout>
     </ScrollView>

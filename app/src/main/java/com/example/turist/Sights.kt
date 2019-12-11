@@ -2,11 +2,11 @@ package `values-en`
 
 import android.graphics.PointF
 
-class Sights(name : Int, picture : Int, history : Int) {
+class Sights(name: Int, picture: Int, history: Int) {
     var onmap : PointF = PointF()
-    var history : Int = history
+    var history : Int= history
     var picture : Int = picture
-    var name : Int= name
+    var name : String = name.toString()
 
 }
 
